@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomCard</string>
+    <string name="number_of_card"></string>
+    <string name="suit_of_card">C</string>
+    <string name="number_of_shots">Shots to drink: 0</string>
+    <string name="number_of_cards_left">Number of cards left: 55</string>
+</resources>
